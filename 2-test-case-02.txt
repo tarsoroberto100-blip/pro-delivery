@@ -1,10 +1,11 @@
 [ CASO DE TESTE ]
-ID: CT-___ | Requisito/Critério Alvo: __________________
-Pré-condição: Aplicação aberta no navegador Google Chrome.
+ID: CT-02 | Requisito/Critério Alvo: adicionar um produto ao carrinho de compras.
+Pré-condição: Aplicação aberta no navegador Google Chrome com a lista de produtos visiveis.
 
 Passos de Execução:
-1.
-2.
-3.
+1. selecionar e clicar em cima de um produto do catalogo.
+2. clicar no botão para adicionar o item desejado ao carrinho.
+3. verificar o indicador do carrinho de compras.
 
 Resultado Esperado:
+* O item deve ser adicionado ao carrinho com sucesso, e o contador ou valor total do carrinho deve ser atualizado instantaneamente.

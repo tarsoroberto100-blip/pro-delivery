@@ -1,10 +1,11 @@
 [ CASO DE TESTE ]
-ID: CT-___ | Requisito/Critério Alvo: __________________
-Pré-condição: Aplicação aberta no navegador Google Chrome.
+ID: CT-05 | Requisito/Critério Alvo: conclusão do pedido.
+Pré-condição: Aplicação aberta no navegador Google Chrome com a parte de Finalização de pedido correta.
 
 Passos de Execução:
-1.
-2.
-3.
+1. selecionar o metodo de pagamento desejado.
+2. clicar no botão de confirmar pedido.
+3. aguardar o sistema responder
 
 Resultado Esperado:
+* O pedido deve ser submetido com sucesso, exibindo um ecrã ou mensagem de confirmação da compra realizada.

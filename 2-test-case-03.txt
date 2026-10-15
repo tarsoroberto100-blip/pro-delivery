@@ -1,10 +1,11 @@
 [ CASO DE TESTE ]
-ID: CT-___ | Requisito/Critério Alvo: __________________
-Pré-condição: Aplicação aberta no navegador Google Chrome.
+ID: CT-03 | Requisito/Critério Alvo: atualizar a quantidade de um produto no carrinho
+Pré-condição: Aplicação aberta no navegador Google Chrome com pelo menos um item inserido no carrinho.
 
 Passos de Execução:
-1.
-2.
-3.
+1. ir ate a parte do carrinho de compras/catalogo.
+2. clicar em aumentar a quantidade daquele item ao carrinho.
+3. ver se o valor total da compra é correspondente.
 
 Resultado Esperado:
+* A quantidade do item deve incrementar corretamente e o preço total do pedido deve ser recalculado de forma precisa.

@@ -1,6 +1,22 @@
 [ PLANO DE TESTES - DELIVERYPRO ]
-1. Escopo (O que será testado?): 
-2. Fora de Escopo (O que não será testado?): Banco de dados e Servidor.
-3. Tipos de Teste: ( ) Funcional  ( ) Desempenho  ( ) Usabilidade
-4. Riscos do Sistema: 
+
+1. Escopo (O que será testado?):
+* A interface do usuario e o layout: ver se todos os elementos visuais estão corretos, ver a responsividade do sistema e como é a navegação no site.
+* Analizar a lista de produtos(catalogo): ver os itens disponiveis no catalogo, fazer adições de produtos ao carrinho.
+* Gestão do carrinho: ver se os os produtos do carrinho estão corretos, ver a funcionalidade de adicionar e remover do carrinho, e ver se no final tem a soma correta dos valores dos produtos.
+* Finalização do pedido: analizar se os dados do usuario estão corretos e funcionando perfeitamente(Nome completo, endereço da entrega).
+
+2. Fora de Escopo (O que não será testado?):
+* Banco de dados e parte de pagamentos.
+
+3. Tipos de Teste: (x) Funcional  (x) Desempenho  (x) Usabilidade
+
+4. Riscos do Sistema:
+* Erros nos calculos do sistema
+* Validação de formularios incompleta.
+
 5. Ferramentas e Ambiente:
+* Git/GitHub.
+* VsCode.
+* Coputador.
+* Chrome.

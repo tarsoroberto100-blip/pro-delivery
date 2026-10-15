@@ -1,10 +1,11 @@
 [ CASO DE TESTE ]
-ID: CT-___ | Requisito/Critério Alvo: __________________
-Pré-condição: Aplicação aberta no navegador Google Chrome.
+ID: CT-04 | Requisito/Critério Alvo: preenchimento do formulario dos dados de entrega do usuario.
+Pré-condição: Aplicação aberta no navegador Google Chrome e na parte de inserir os dados de entrega do usuario.
 
 Passos de Execução:
-1.
-2.
-3.
+1. digitar um endereço valido no campo de endereço de entrega.
+2. preencher os campos com os dados obrigatorios.
+3. clicar no botão para proseguir.
 
 Resultado Esperado:
+* Os dados devem ser aceites pelos campos de texto sem gerar alertas de erro, permitindo avançar para a etapa seguinte.

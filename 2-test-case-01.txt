@@ -1,10 +1,11 @@
 [ CASO DE TESTE ]
-ID: CT-___ | Requisito/Critério Alvo: __________________
+ID: CT-01 | Requisito/Critério Alvo: visualização de produtos na tela inicial
 Pré-condição: Aplicação aberta no navegador Google Chrome.
 
 Passos de Execução:
-1.
-2.
-3.
+1. abrir a pagina inicial do DELIVERYPRO.
+2. verificar se os itens ou restaurantes estao disponiveis e sendo carregadas.
+3. rolar a pagina para ver se o app carrega perfeitamente.
 
 Resultado Esperado:
+* A lista de produtos/restaurantes deve ser apresentada corretamente, com imagens, nomes e preços visíveis, sem erros visuais ou de carregamento.
