@@ -9,3 +9,18 @@ Passos de Execução:
 
 Resultado Esperado:
 * O item deve ser adicionado ao carrinho com sucesso, e o contador ou valor total do carrinho deve ser atualizado instantaneamente.
+
+[ BUG REPORT / ISSUE ]
+Título: adicionado um produto no carrinho de compra
+Severidade: (x) Baixa  ( ) Média  ( ) Alta  ( ) Crítica
+
+Passos para Reproduzir a Falha:
+1.digita a quantidade no campo do produto
+2.verificar o total da compra
+
+Resultado Esperado (O que a regra de negócio pedia): o valor total da compra exibido abaixo
+Resultado Obtido (O que o sistema fez de errado):  o carrinho não mostra o quantidade de items
+
+Análise de Caixa Branca (Onde está o defeito no código?):
+
+Responsavel Tecnico: Deivison

@@ -9,3 +9,18 @@ Passos de Execução:
 
 Resultado Esperado:
 * O pedido deve ser submetido com sucesso, exibindo um ecrã ou mensagem de confirmação da compra realizada.
+
+[ BUG REPORT / ISSUE ]
+Título: concluir pedido
+Severidade: (x) Baixa  ( ) Média  ( ) Alta  ( ) Crítica
+
+Passos para Reproduzir a Falha:
+1.preenchar os dados de entrega e quantidade de produtos
+2.confimar pedido
+
+Resultado Esperado (O que a regra de negócio pedia): ir para a pagina de finalizacao de pedido
+Resultado Obtido (O que o sistema fez de errado): o botão de confirmar não esta funcionando
+
+Análise de Caixa Branca (Onde está o defeito no código?):
+
+Responsavel Tecnico: Deivison

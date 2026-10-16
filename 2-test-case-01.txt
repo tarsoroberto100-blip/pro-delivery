@@ -9,3 +9,18 @@ Passos de Execução:
 
 Resultado Esperado:
 * A lista de produtos/restaurantes deve ser apresentada corretamente, com imagens, nomes e preços visíveis, sem erros visuais ou de carregamento.
+
+[ BUG REPORT / ISSUE ]
+Título: visualizar de produto na tela inicial
+Severidade: ( ) Baixa  (x) Média  ( ) Alta  ( ) Crítica
+
+Passos para Reproduzir a Falha:
+1.carregar a pagina
+2.fazer a scroll na pagina 
+
+Resultado Esperado (O que a regra de negócio pedia): Infomacoes da pagina carregada 
+Resultado Obtido (O que o sistema fez de errado): as informaçoes da pagina carregada
+
+Análise de Caixa Branca (Onde está o defeito no código?):
+
+Responsavel Tecnico: Deivison

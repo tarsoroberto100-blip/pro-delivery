@@ -9,3 +9,19 @@ Passos de Execução:
 
 Resultado Esperado:
 * Os dados devem ser aceites pelos campos de texto sem gerar alertas de erro, permitindo avançar para a etapa seguinte.
+
+[ BUG REPORT / ISSUE ]
+Título: Preenchimento de dados de entregra
+Severidade: ( ) Baixa  ( ) Média  ( ) Alta  ( ) Crítica
+
+Passos para Reproduzir a Falha:
+1.preenchar com nome e rua e selecionar bairro
+2.preenchar os pedidos 
+3. confirmar a compra 
+
+Resultado Esperado (O que a regra de negócio pedia): Informaçoes de entrega exibido no topo da pagina de confirmacao 
+Resultado Obtido (O que o sistema fez de errado): Nao exibia o nome 
+
+Análise de Caixa Branca (Onde está o defeito no código?):
+
+Responsavel Tecnico: Deivison

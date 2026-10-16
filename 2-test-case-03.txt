@@ -9,3 +9,19 @@ Passos de Execução:
 
 Resultado Esperado:
 * A quantidade do item deve incrementar corretamente e o preço total do pedido deve ser recalculado de forma precisa.
+
+[ BUG REPORT / ISSUE ]
+Título: atualizar  quantidade carrinho de compra
+Severidade: (x) Baixa  ( ) Média  ( ) Alta  ( ) Crítica
+
+Passos para Reproduzir a Falha:
+1. adicionar items no carrinho
+2. ir para o carrinho de compras
+3. selecionar algums items 
+
+Resultado Esperado (O que a regra de negócio pedia):  icone indicado a quantidade de items atualizado
+Resultado Obtido (O que o sistema fez de errado): ainda motra o total e não somente os items selecionado
+
+Análise de Caixa Branca (Onde está o defeito no código?):
+
+Responsavel Tecnico: Deivison
